@@ -12,7 +12,7 @@ public class Runner {
 		System.out.println(araba1.arabaModeli());
 		System.out.println(araba1.arabaYili());
 		
-		Car araba2 = new Honda("Jazz",2019);
+		Car araba2 = new Honda("Jazz",2020);
 		System.out.println(araba2.arabaMarkasi());
 		System.out.println(araba2.arabaModeli());
 		System.out.println(araba2.arabaYili());
